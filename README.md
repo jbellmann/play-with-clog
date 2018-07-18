@@ -59,3 +59,10 @@ reference GitHub issues that this commit **Closes**.
 
 **Breaking Changes** are detected as such if the footer contains a line starting with BREAKING CHANGE:
 (with optional newlines) The rest of the commit message is then used for this.
+
+
+## Simple Commands
+
+```
+clog -f <commitid>
+```
