@@ -1,6 +1,7 @@
 [clog]
 repository = "https://github.com/jbellmann/play-with-clog"
 changelog = "CHANGELOG.md"
+subtitle = "Release Notes"
 
 [sections]
 Features = ["feat"]
