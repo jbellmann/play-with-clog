@@ -66,3 +66,7 @@ reference GitHub issues that this commit **Closes**.
 ```
 clog -f <commitid>
 ```
+
+```
+clog -r https://github.com/jbellmann/play-with-clog --outfile only_new.md
+```
