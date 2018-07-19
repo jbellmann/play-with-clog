@@ -67,10 +67,12 @@ reference GitHub issues that this commit **Closes**.
 clog -f <commitid>
 ```
 
+Generates Changelogs and prints them into the specified `outfile`:
 ```
 clog -r https://github.com/jbellmann/play-with-clog --outfile only_new.md
 ```
 
+Generate Changelogs starting from specific commit:
 ```
 clog -f 346fbf7
 ```
