@@ -78,5 +78,6 @@ clog -f 346fbf7
 ```
 
 Maybe we have to specify issues different than in github-markdown.
-OR with double-quotes?
+OR with double-quotes? No
+OR with keywords like Closes|Fixes|Resolves ?
 
