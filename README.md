@@ -83,7 +83,7 @@ OR with keywords like Closes|Fixes|Resolves ?
 No again with only a number, no # in front of it.
 So 'Closes' seems to work somehow
   Will try next with 'Closes' in subject, uppercase does not work, lowercase does not work
-  Will try next with 'Closes' in body
+  Will try next with 'Closes' in body, lowercase starting body does not work,
   Will try next with 'Closes' in footer
 
 
