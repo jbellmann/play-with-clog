@@ -87,6 +87,7 @@ So 'Closes' seems to work somehow
     lowercase starting body does not work,
     starting uppercase 'Closes #3' works,
     in the body somewhere in the body also works
-  Will try next with 'Closes' in footer
+  Will try next with 'Closes' in footer,
+    starting lowercase does not work
 
 
