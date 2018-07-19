@@ -9,8 +9,8 @@
 
 #### Features
 
-* **#1:**  should render links to issues correctly ([674a766c](https://github.com/jbellmann/play-with-clog/commit/674a766cc13c9f58ad4d875726837b9aeab89c7c))
-* **RME:**  #2 now the issue-link should be part of 'subject' ([1b9f5183](https://github.com/jbellmann/play-with-clog/commit/1b9f5183454ee9c6250896b20bffa02ee0b58168))
+* **[#1](https://github.com/jbellmann/play-with-clog/issues/1):**  should render links to issues correctly ([674a766c](https://github.com/jbellmann/play-with-clog/commit/674a766cc13c9f58ad4d875726837b9aeab89c7c))
+* **RME:**  [#2](https://github.com/jbellmann/play-with-clog/issues/2) now the issue-link should be part of 'subject' ([1b9f5183](https://github.com/jbellmann/play-with-clog/commit/1b9f5183454ee9c6250896b20bffa02ee0b58168))
 
 #### Chore
 
