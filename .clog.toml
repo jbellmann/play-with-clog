@@ -10,4 +10,5 @@ Performance = ["perf"]
 Documentation = ["docs"]
 
 [components]
-README = ["RME", "rme"]
+README = ["long", "rme"]
+
