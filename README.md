@@ -89,5 +89,6 @@ So 'Closes' seems to work somehow
     in the body somewhere in the body also works
   Will try next with 'Closes' in footer,
     starting lowercase does not work
+    starting uppercase and using 'Fixes #3' works
 
 
