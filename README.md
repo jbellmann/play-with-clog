@@ -90,5 +90,7 @@ So 'Closes' seems to work somehow
   Will try next with 'Closes' in footer,
     starting lowercase does not work
     starting uppercase and using 'Fixes #3' works
+    uppercase in between the text in footer also works
+
 
 
