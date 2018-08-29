@@ -1,3 +1,35 @@
+<a name=""></a>
+##  Release Notes (2018-08-29)
+
+
+#### Features
+
+*   use clog with '--setversion 0.0.3' and it renders the version in front of the subtitle ([1dc1344b](https://github.com/jbellmann/play-with-clog/commit/1dc1344b07c441dffacb7e5f6581398ee8acd69f))
+* **'2':**  '1' maybe this will work, try out ([1c2f1637](https://github.com/jbellmann/play-with-clog/commit/1c2f16374814b74d09a1d87eb28f4253f07c9a25))
+* **2:**  2 not sure this is working or not, there is something in the code, but not documented ([98cacb98](https://github.com/jbellmann/play-with-clog/commit/98cacb9881de63e3d72920ec35a8420d3939ac99))
+* **CHANGELOG:**  Closes #2 when this will ever work ([f5837b27](https://github.com/jbellmann/play-with-clog/commit/f5837b2785d4377883550f498d339be27581bdaa))
+* **clog:**  configure 'components' section to use shortcuts for README (RME, rme) ([0310cd4c](https://github.com/jbellmann/play-with-clog/commit/0310cd4c73e3577b9385c7eea498b07c3aa9b2f9))
+
+#### Chore
+
+* **CHANGELOG:**
+  *  rendering issue-links is working now ([6646eb8c](https://github.com/jbellmann/play-with-clog/commit/6646eb8c2990c92bd3fb7d82396b12de4b56928e))
+  *  issue-links rendered, footer in between uppercase ([c718add9](https://github.com/jbellmann/play-with-clog/commit/c718add9f586c473a380f1f35b68374ba0082713), closes [#2](https://github.com/jbellmann/play-with-clog/issues/2))
+  *  issue-links rendered, starting uppercase in footer ([7880532b](https://github.com/jbellmann/play-with-clog/commit/7880532b2b77856a1f38c7450e6c2fcf2424a092), closes [#3](https://github.com/jbellmann/play-with-clog/issues/3))
+  *  issue-links rendered, in the footer starting lowercase ([cdd8604b](https://github.com/jbellmann/play-with-clog/commit/cdd8604b673099e4855e05c3b8b083727f81f464))
+  *  issue-links rendered, body in between uppercase ([8697abc7](https://github.com/jbellmann/play-with-clog/commit/8697abc7df3b3bfb4780604708f13677e61fab43), closes [#3](https://github.com/jbellmann/play-with-clog/issues/3))
+  *  issue-links rendered in body, starting uppercase ([a5223ec3](https://github.com/jbellmann/play-with-clog/commit/a5223ec357ca9b15aa3202a9119b68eb82453c77), closes [#2](https://github.com/jbellmann/play-with-clog/issues/2))
+  *  issue-links rendered in body if starting lowercase ([b4c9f673](https://github.com/jbellmann/play-with-clog/commit/b4c9f673087bc426325e523b3cf35da56c9761ca))
+  *  issue-links in subject, closes #3 ([22c3cdf0](https://github.com/jbellmann/play-with-clog/commit/22c3cdf0c134bd6e428c4706cb9f8537d299b34f))
+  *  issue-link in subject, Closes #3 ([a334977d](https://github.com/jbellmann/play-with-clog/commit/a334977df8a041e84fec2548f0272dc44303330b))
+  *  issue numbers should be rendered ([7ca8ed39](https://github.com/jbellmann/play-with-clog/commit/7ca8ed39654abce4234a637eab36c884a40948eb), closes [#3](https://github.com/jbellmann/play-with-clog/issues/3))
+  *  closes 2 bare number, not sure that will work ([f38182b0](https://github.com/jbellmann/play-with-clog/commit/f38182b018cc2d36a3ee12864ee93c66c7ec4519))
+  *  regenerated with version 0.0.4 ([baeb7802](https://github.com/jbellmann/play-with-clog/commit/baeb78027bbd1f2d670be7b0ca618bee77869306))
+  *  see components shortcuts are replaced in outfile ([e010db06](https://github.com/jbellmann/play-with-clog/commit/e010db06e2b8159de59b8dd559c0677933e052fa))
+* **rme:**  use components exactly as in documentation, but seems not to work ([11568315](https://github.com/jbellmann/play-with-clog/commit/1156831557c5e3f189b838e0cb4c2a38ba680aa2))
+
+
+
 <a name="0.0.17"></a>
 ## 0.0.17 Release Notes (2018-07-19)
 
